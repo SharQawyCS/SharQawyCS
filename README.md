@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharqawy</h1>
-<h3 align="center">A passionate web developer from EGYPT 🇪🇬</h3>
+<h3 align="center">A passionate developer from EGYPT 🇪🇬</h3>
 
 - 🌱 I’m currently learning **ReactJS & NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharQawyCS/](https://github.com/SharQawyCS/)
-
-- 💬 Ask me about **JS, ReactJS**
 
 - 📫 How to reach me **sharqawycs@gmail.com**
 
