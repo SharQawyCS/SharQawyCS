@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharqawy (CS)</h1>
 <h3 align="center">A passionate developer from EGYPT 🇪🇬</h3>
 
-- 🌱 I’m currently learning **Computer Engineering**
+- 🌱 I’m currently learning **Software Development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharQawyCS/](https://github.com/SharQawyCS)
 
