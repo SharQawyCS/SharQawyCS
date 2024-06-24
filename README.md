@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharQawyCS&label=Profile%20views&color=000000&style=3d" alt="SharQawyCS" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharQawyCS" alt="SharQawyCS" /></a> </p>
-
-- 🌱 I’m currently learning **Software Development **
+- 🌱 I’m currently learning **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SharQawyCS/](https://github.com/SharQawyCS)
 
@@ -31,7 +29,11 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sharqawycs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharqawycs" /></a><a href="https://ko-fi.com/sharqawycs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sharqawycs" /></a></p><br><br>
+<h3 align="left">Account Info:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharqawycs&show_icons=true&locale=en&layout=compact" alt="sharqawycs" /></p>
+
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharqawycs&show_icons=true&locale=en&layout=compact" alt="sharqawycs" /></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharQawyCS&show_icons=true&locale=en" alt="SharQawyCS" /></p>
