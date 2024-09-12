@@ -25,9 +25,9 @@
 <a href="https://codeforces.com/profile/sharqawycs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharqawycs" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/sharqawycs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharqawycs" height="30" width="40" /></a> -->
 <!-- <a href="https://www.topcoder.com/members/sharqawycs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sharqawycs" height="30" width="40" /></a> -->
-<a href="https://discord.gg/sharqawycs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharqawycs" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/sharqawycs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharqawycs" height="30" width="40" /></a>
 </p>
-
+ -->
 
 <h3 align="left">Account Info:</h3>
 
