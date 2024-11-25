@@ -10,7 +10,7 @@
 - 📫 How to reach me **sharqawycs@gmail.com**
 
 - ⚡ Fun fact **I Think I am funny.**
--This is change is made by Nagy 
+
 <!--   <h3 align="left">Connect with me:</h3>
 <p align="left">   --!>
 <!-- <a href="https://codepen.io/sharqawycs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sharqawycs" height="30" width="40" /></a>
