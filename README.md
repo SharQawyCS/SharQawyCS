@@ -38,3 +38,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharQawyCS&show_icons=true&locale=en" alt="SharQawyCS" /></p>
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/SharQawyCSSharQawyCS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/SharQawyCS/SharQawyCS/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=SharQawyCS)
