@@ -41,5 +41,5 @@
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SharQawyCSSharQawyCS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/SharQawyCS/SharQawyCS
+![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sharqawycs/sharqawycs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
